@@ -24,7 +24,7 @@ Y = YKTrain(index2,:)';
 LX = LTrain(index1,:)';
 LY = LTrain(index2,:)';
 
-%% ALECH
+%% AMSH
 for kk= 1:length(nbitset)
     
 param.nbits = nbitset(kk);
